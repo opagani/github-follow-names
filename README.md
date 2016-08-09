@@ -1,3 +1,3 @@
-# starwars-names
+# github-follow-names
 
-For all your random Star Wars character needs
+For all your random github follow character names
