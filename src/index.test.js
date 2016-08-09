@@ -1,7 +1,7 @@
 import {expect} from 'chai'
 import gthubFollowNames from '.'
 
-describe('gthub-names', () => {
+describe('gthub-follow-names', () => {
   it('should have a list of all available names', () => {
     expect(gthubFollowNames.all).to.satisfy(isArrayOfStrings)
   })
